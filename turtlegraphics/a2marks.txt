@@ -1,0 +1,38 @@
+Assignment 2 Marksheet
+Marker: Jack Thomas (j26thoma@uwaterloo.ca)
+
+ 62/ 92 -- Automated test results
+
+2 / 2 -- Code compiles
+
+Visual Specifications:
+ 3/ 3 -- Three visible labels (turtle graphics output, playback rate, current turtle step)
+ 2/ 2 -- Two visible sliders
+ 5/ 5 -- Five visible buttons
+ 2/ 2 -- Sliders have min/max values labeled
+ 2/ 2 -- Slider thumb has value labeled over the thumb, updates as it moves
+
+Interaction:
+ 0/ 4 -- Application plays/pauses the turtle playback
+ 4/ 4 -- Can vary the step slider and the turtle graphics responds accordingly
+0 / 4 -- When playing, if the step slider is varied, then the animation pauses when the step slider is released
+ 1/ 4 -- Varying the playback rate slider varies the playback speed
+
+Visual Design:
+ 6/ 6 -- Clean, aesthetically pleasing visual design
+
+Usability:
+4 / 6 -- Application has no significant usability flaws (ignore any flickering, ignore window resizing)
+-Won't play 
+4/ 4 -- CPU usage is not excessive
+
+Unit testing:
+ 4/ 4 -- All unit tests pass
+ 0/ 4 -- Student wrote additional unit tests within A2UnitTests.cpp
+ 4/ 4 -- Student unit tests display window and synthetic interaction
+
+[X ] Didn't add some files to SVN at assignment deadline (5% penalty)
+-7
+
+Total:
+ 98/ 152
