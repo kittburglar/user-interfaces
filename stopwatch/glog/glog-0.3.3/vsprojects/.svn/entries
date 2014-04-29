@@ -1,0 +1,40 @@
+10
+
+dir
+9286
+svn://linux024.student.cs.uwaterloo.ca:6002/cs349_repo/kxayasan/a1/glog/glog-0.3.3/vsprojects
+svn://linux024.student.cs.uwaterloo.ca:6002/cs349_repo
+
+
+
+2014-01-07T23:58:03.757048Z
+346
+cs349
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6ab0e64d-1620-478c-903d-d45c0ed8f820
+
+libglog
+dir
+
+logging_unittest
+dir
+
+libglog_static
+dir
+
+logging_unittest_static
+dir
+
